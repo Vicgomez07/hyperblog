@@ -9,5 +9,7 @@ Un blog increíble para el[ curso de Git y Github]
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
-* El mejor curso
-Y como un amable recordatorio: **Este readme.md es un chiste**. 
+* El mejor curso 
+* ejemplos
+
+recordatorio: **Este readme.md es un chiste**. 
